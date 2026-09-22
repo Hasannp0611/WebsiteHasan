@@ -1,0 +1,3 @@
+//coba untuk push dulu ya san...
+//kita lihat keknya saya dah berhasil nambahin push di github saya
+//jadi kita bisa start buat webnya sekarang
